@@ -1,0 +1,1 @@
+An object oriented message handler that can toggle its queue timeout to trigger high speed polling.
