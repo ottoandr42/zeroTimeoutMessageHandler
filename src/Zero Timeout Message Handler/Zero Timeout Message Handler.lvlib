@@ -4,6 +4,5 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Message.lvclass" Type="LVClass" URL="../Message/Message.lvclass"/>
 	<Item Name="Zero Timeout Message Handler.lvclass" Type="LVClass" URL="../Zero Timeout Message Handler/Zero Timeout Message Handler.lvclass"/>
 </Library>
