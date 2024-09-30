@@ -11,9 +11,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="test1.vi" Type="VI" URL="../Test/test1.vi"/>
 		<Item Name="Zero Timeout Message Handler.lvlib" Type="Library" URL="../Zero Timeout Message Handler/Zero Timeout Message Handler.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
-			<Item Name="Message.lvclass" Type="LVClass" URL="../Zero Timeout Message Handler/Message/Message.lvclass"/>
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
+			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
