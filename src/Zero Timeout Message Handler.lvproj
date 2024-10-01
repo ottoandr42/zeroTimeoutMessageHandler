@@ -17,7 +17,11 @@
 			<Item Name="test1.vi" Type="VI" URL="../Test/test1.vi"/>
 		</Item>
 		<Item Name="Zero Timeout Message Handler.lvlib" Type="Library" URL="../Zero Timeout Message Handler/Zero Timeout Message Handler.lvlib"/>
-		<Item Name="Dependencies" Type="Dependencies"/>
+		<Item Name="Dependencies" Type="Dependencies">
+			<Item Name="vi.lib" Type="Folder">
+				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
+			</Item>
+		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
 </Project>
