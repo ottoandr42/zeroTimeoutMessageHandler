@@ -4,9 +4,12 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">604012544</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Item Name="Start Polling Msg.lvclass" Type="LVClass" URL="../Start Polling Msg/Start Polling Msg.lvclass"/>
-	<Item Name="Stop Msg.lvclass" Type="LVClass" URL="../Stop Msg/Stop Msg.lvclass"/>
-	<Item Name="Stop Polling Msg.lvclass" Type="LVClass" URL="../Stop Polling Msg/Stop Polling Msg.lvclass"/>
+	<Property Name="NI.SortType" Type="Int">3</Property>
+	<Item Name="Messages" Type="Folder">
+		<Item Name="Stop Msg.lvclass" Type="LVClass" URL="../Stop Msg/Stop Msg.lvclass"/>
+		<Item Name="Stop Polling Msg.lvclass" Type="LVClass" URL="../Stop Polling Msg/Stop Polling Msg.lvclass"/>
+		<Item Name="Start Polling Msg.lvclass" Type="LVClass" URL="../Start Polling Msg/Start Polling Msg.lvclass"/>
+		<Item Name="~Message.lvclass" Type="LVClass" URL="../~Message/~Message.lvclass"/>
+	</Item>
 	<Item Name="Zero Timeout Message Handler.lvclass" Type="LVClass" URL="../Zero Timeout Message Handler/Zero Timeout Message Handler.lvclass"/>
-	<Item Name="~Message.lvclass" Type="LVClass" URL="../~Message/~Message.lvclass"/>
 </Library>
