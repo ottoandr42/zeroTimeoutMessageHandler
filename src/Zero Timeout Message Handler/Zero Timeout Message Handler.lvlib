@@ -11,6 +11,7 @@
 		<Item Name="Start Polling Msg.lvclass" Type="LVClass" URL="../Start Polling Msg/Start Polling Msg.lvclass"/>
 		<Item Name="~Message.lvclass" Type="LVClass" URL="../~Message/~Message.lvclass"/>
 		<Item Name="Poll Msg.lvclass" Type="LVClass" URL="../Poll Msg/Poll Msg.lvclass"/>
+		<Item Name="Set Timeout Message Msg.lvclass" Type="LVClass" URL="../Set Timeout Message Msg/Set Timeout Message Msg.lvclass"/>
 	</Item>
 	<Item Name="Zero Timeout Message Handler.lvclass" Type="LVClass" URL="../Zero Timeout Message Handler/Zero Timeout Message Handler.lvclass"/>
 </Library>
