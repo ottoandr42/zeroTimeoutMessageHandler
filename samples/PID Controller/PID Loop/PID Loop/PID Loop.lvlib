@@ -9,4 +9,5 @@
 		<Item Name="Loop Msg.lvclass" Type="LVClass" URL="../Loop Msg/Loop Msg.lvclass"/>
 	</Item>
 	<Item Name="PID Loop.lvclass" Type="LVClass" URL="../PID Loop.lvclass"/>
+	<Item Name="test.vi" Type="VI" URL="../../../test.vi"/>
 </Library>
