@@ -10,7 +10,7 @@
 		<Item Name="Stop Polling Msg.lvclass" Type="LVClass" URL="../Stop Polling Msg/Stop Polling Msg.lvclass"/>
 		<Item Name="Start Polling Msg.lvclass" Type="LVClass" URL="../Start Polling Msg/Start Polling Msg.lvclass"/>
 		<Item Name="~Message.lvclass" Type="LVClass" URL="../~Message/~Message.lvclass"/>
-		<Item Name="Set Polling Message Msg.lvclass" Type="LVClass" URL="../Set Timeout Message Msg/Set Polling Message Msg.lvclass"/>
+		<Item Name="Set Polling Message Msg.lvclass" Type="LVClass" URL="../Set Polling Message Msg/Set Polling Message Msg.lvclass"/>
 	</Item>
 	<Item Name="Zero Timeout Message Handler.lvclass" Type="LVClass" URL="../Zero Timeout Message Handler/Zero Timeout Message Handler.lvclass"/>
 </Library>
