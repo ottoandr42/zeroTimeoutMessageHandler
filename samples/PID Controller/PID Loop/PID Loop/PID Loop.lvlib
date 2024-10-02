@@ -6,6 +6,7 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
 		<Item Name="Get Notifiers Msg.lvclass" Type="LVClass" URL="../Get Notifiers Msg/Get Notifiers Msg.lvclass"/>
+		<Item Name="Loop Msg.lvclass" Type="LVClass" URL="../Loop Msg/Loop Msg.lvclass"/>
 	</Item>
 	<Item Name="PID Loop.lvclass" Type="LVClass" URL="../PID Loop.lvclass"/>
 </Library>
