@@ -7,7 +7,8 @@
 	<Item Name="Messages" Type="Folder">
 		<Item Name="Get Notifiers Msg.lvclass" Type="LVClass" URL="../Get Notifiers Msg/Get Notifiers Msg.lvclass"/>
 		<Item Name="Loop Msg.lvclass" Type="LVClass" URL="../Loop Msg/Loop Msg.lvclass"/>
+		<Item Name="Set Loop Period Msg.lvclass" Type="LVClass" URL="../Set Loop Period Msg/Set Loop Period Msg.lvclass"/>
+		<Item Name="Set PID Gains Msg.lvclass" Type="LVClass" URL="../Set PID Gains Msg/Set PID Gains Msg.lvclass"/>
 	</Item>
 	<Item Name="PID Loop.lvclass" Type="LVClass" URL="../PID Loop.lvclass"/>
-	<Item Name="test.vi" Type="VI" URL="../../../test.vi"/>
 </Library>

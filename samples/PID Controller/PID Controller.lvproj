@@ -13,6 +13,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="PID Loop.lvlib" Type="Library" URL="../PID Loop/PID Loop/PID Loop.lvlib"/>
+		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Zero Timeout Message Handler.lvlib" Type="Library" URL="../../../src/Zero Timeout Message Handler/Zero Timeout Message Handler.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
